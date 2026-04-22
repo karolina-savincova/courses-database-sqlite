@@ -1,8 +1,6 @@
 # Courses SQLite Database
 Courses Database is a SQLlite database for Courses demo page witch gives back JSON object. Each course is represented as a separate object, containing several attributes.
 
-### **Link to the API:** https://river-spice-blouse.glitch.me/courses
-
 ### Endpoints
 
 `GET [/courses]` - gets all the courses\
